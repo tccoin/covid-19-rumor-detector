@@ -1,0 +1,324 @@
+{
+    "新冠肺炎": {
+        "1": {
+            "num_results": "",
+            "no_results": false,
+            "effective_query": "",
+            "right_info": {},
+            "results": [
+                {
+                    "link": "https://zh.wikipedia.org/wiki/2019%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E7%97%85%E7%96%AB%E6%83%85",
+                    "title": "2019冠状病毒病疫情- 维基百科，自由的百科全书",
+                    "snippet": "2019冠狀病毒病疫情，是一次由严重急性呼吸系统综合征冠状病毒2（SARS-CoV-2）所引發的全球大流行疫情。疫情最初在2019年12月於中華人民共和國湖北省武漢 ...",
+                    "visible_link": "zh.wikipedia.org › wiki › 2019冠状病毒病疫情",
+                    "date": "",
+                    "rank": 1
+                },
+                {
+                    "link": "https://www.bbc.com/zhongwen/simp/53033200",
+                    "title": "新冠疫情：一天内6人确诊46人检测阳性，北京一城区重启“战时 ...",
+                    "snippet": "1 天前 - 面对疫情卷土重来的可能，北京如临大敌，宣布取消各类体育赛事活动、推迟部分学生复课、禁止群体性聚餐。",
+                    "visible_link": "www.bbc.com › zhongwen › simp",
+                    "date": "1 天前",
+                    "rank": 2
+                },
+                {
+                    "link": "http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202006/t20200614_1924537.html",
+                    "title": "北京昨日新增报告36例新冠肺炎确诊病例",
+                    "snippet": "北京昨日新增报告36例新冠肺炎确诊病例. 发布日期：2020-06-14; 来源：北京市卫生健康委; 文字变小 恢复文字大小 文字变大. 6月13日0时至24时，新增报告本地确诊 ...",
+                    "visible_link": "wjw.beijing.gov.cn › xwzx_20031 › xwfb",
+                    "date": "",
+                    "rank": 3
+                },
+                {
+                    "link": "https://covid-19.chinatimes.com/%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%2C%E5%8F%B0%E7%81%A3",
+                    "title": "新冠肺炎特別報導- 中時電子報",
+                    "snippet": "武漢肺炎/新冠肺炎covid-19最新新聞,疫情統計追蹤,特別報導-中時電子報.",
+                    "visible_link": "covid-19.chinatimes.com › 新冠肺炎,台灣",
+                    "date": "",
+                    "rank": 4
+                },
+                {
+                    "link": "https://ncov.dxy.cn/",
+                    "title": "全球新冠病毒最新实时疫情地图_丁香园",
+                    "snippet": "丁香园、丁香医生整合各权威渠道发布的官方数据，通过疫情地图直观展示，持续更新最新的新型冠状病毒肺炎的实时疫情动态。",
+                    "visible_link": "ncov.dxy.cn",
+                    "date": "",
+                    "rank": 5
+                },
+                {
+                    "link": "https://feiyan.wecity.qq.com/",
+                    "title": "新冠肺炎疫情动态",
+                    "snippet": "6月11日09:27 上海无新增本地新冠肺炎确诊病例新增境外输入6例. 6月11日12:07 美国新冠肺炎确诊近200万例. 6月11日10:03 天津市新型冠状病毒肺炎疫情情况.",
+                    "visible_link": "feiyan.wecity.qq.com",
+                    "date": "",
+                    "rank": 6
+                },
+                {
+                    "link": "https://news.qq.com/zt2020/page/feiyan.htm",
+                    "title": "实时更新：新冠肺炎疫情最新动态",
+                    "snippet": "国内疫情. 海外疫情. 疫情. 最新进展. 定点医院. 病患轨迹. 较真辟谣. 复工复学. 数据来源：WHO和霍普金斯大学网站. 国内疫情. 海外疫情. 了解疫情动态，请前往.",
+                    "visible_link": "news.qq.com › page › feiyan",
+                    "date": "",
+                    "rank": 7
+                },
+                {
+                    "link": "http://www.nhc.gov.cn/xcs/xxgzbd/gzbd_index.shtml",
+                    "title": "新型冠状病毒肺炎疫情防控_宣传司 - 国家卫生健康委员会",
+                    "snippet": "2020-06-11; 国家卫生健康委办公厅关于进一步做好新冠肺... 2020-06-10; 关于加快推进新冠病毒核酸检测的实施意见 2020-06-08; 关于做好疫情常态化防控下新冠 ...",
+                    "visible_link": "www.nhc.gov.cn › xcs › xxgzbd › gzbd_index",
+                    "date": "",
+                    "rank": 8
+                },
+                {
+                    "link": "https://news.campaign.yahoo.com.tw/2019-nCoV/index.php",
+                    "title": "武漢肺炎即時疫情最新整理不斷更新懶人包 - Yahoo",
+                    "snippet": "武漢肺炎延燒，目前最新確診人數、死亡人數有多少？想得到最新最快最正確的新冠肺炎數據，請看Yahoo整理的新冠肺炎即時疫情數據整理。",
+                    "visible_link": "news.campaign.yahoo.com.tw › 2019-nCoV",
+                    "date": "",
+                    "rank": 9
+                },
+                {
+                    "link": "https://china.hket.com/article/2669748/%E3%80%90%E5%8C%97%E4%BA%AC%E7%96%AB%E6%83%85%E5%8F%8D%E5%BD%88%E3%80%91%E7%BE%8E%E5%9C%8B%E7%A0%94%E7%A9%B6%EF%BC%9A%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E7%97%85%E6%AF%92%E7%AA%81%E8%AE%8A%C2%A0%20%E5%82%B3%E6%9F%93%E5%8A%9B%E6%81%90%E5%A4%A7%E5%A2%9E",
+                    "title": "【北京疫情反彈】美國研究：新冠肺炎病毒突變 傳染力恐大增 ...",
+                    "snippet": "5 小时前 - 新冠肺炎美國疫情反彈，北京疫情亦恐爆發第二波之際，美國有線電視新聞網（CNN）報道，佛羅里達州研究人員認為，他們的實驗證明新冠肺炎病毒 ...",
+                    "visible_link": "china.hket.com › 社會熱點",
+                    "date": "5 小时前",
+                    "rank": 10
+                },
+                {
+                    "link": "https://news.sina.cn/zt_d/yiqing0121",
+                    "title": "实时更新|新冠肺炎疫情地图",
+                    "snippet": "今年年初，武汉爆发新冠肺炎疫情，全国打响疫情防控阻击战，目前形势持续向好。",
+                    "visible_link": "news.sina.cn › zt_d › yiqing0121",
+                    "date": "",
+                    "rank": 11
+                },
+                {
+                    "link": "https://inews.hket.com/article/2669026/%E7%BE%8E%E5%9C%8B%E4%BA%BA%E4%B8%8D%E9%A1%98%E8%B2%B7%E4%B8%AD%E5%9C%8B%E8%B2%A8%20%E5%9B%A0%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E7%96%AB%E6%83%85%E6%95%B2%E9%9F%BF%E8%AD%A6%E9%90%98",
+                    "title": "美國人不願買中國貨因新冠肺炎疫情敲響警鐘- 香港經濟日報 ...",
+                    "snippet": "1 天前 - 中美角力持續，新冠肺炎疫情源頭也成為兩國爭論點，市場憂慮中美貿易關係也受衝擊。中國作為世界工廠，新冠疫情更令美國人覺得過往一直太 ...",
+                    "visible_link": "inews.hket.com › article › 美國人不願買中國貨 因新冠...",
+                    "date": "1 天前",
+                    "rank": 12
+                },
+                {
+                    "link": "https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20200613/s00001/1592027613370/%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E-%E7%80%9D%E6%BA%90%E9%82%A8%E7%A5%BF%E6%B3%89%E6%A8%93%E4%B8%80%E7%94%B7%E5%AD%90%E7%A2%BA%E8%A8%BA-%E5%B1%85%E7%A2%BA%E8%A8%BA%E5%8C%85%E8%A3%9D%E5%A5%B3%E5%B7%A5%E9%9A%94%E5%A3%81",
+                    "title": "新冠肺炎｜瀝源邨祿泉樓一男子確診居確診包裝女工隔壁(15:50 ...",
+                    "snippet": "1 天前 - 祿泉樓至今共有9名住客確診，其中6人居於8樓，涉及8樓的4個單位。 【15:50】衛生防護中心表示，新增確診感染新冠病毒的33歲男病人（個案1110）， ...",
+                    "visible_link": "news.mingpao.com › ins › 港聞 › article › 新冠肺炎-瀝...",
+                    "date": "1 天前",
+                    "rank": 13
+                },
+                {
+                    "link": "https://udn.com/news/story/120944/4634467",
+                    "title": "巴西新冠肺炎新增2萬1704確診892死全球第2慘 - 聯合新聞網",
+                    "snippet": "15 小时前 - 巴西衛生部今天表示，過去24小時境內新增2萬1704人確診感染2019冠狀病毒疾病（COVID-19，新冠肺炎）以及89...",
+                    "visible_link": "udn.com › 要聞",
+                    "date": "15 小时前",
+                    "rank": 14
+                },
+                {
+                    "link": "https://udn.com/news/story/120944/4634165",
+                    "title": "研究：新冠肺炎病毒突變恐大幅增強傳染力| 新冠肺炎全球燒 ...",
+                    "snippet": "1 天前 - 美國有線電視新聞網（CNN）報導，佛羅里達州研究人員認為，他們的實驗證明了，新冠肺炎病毒已產生基因突變，使人體細胞更容易...",
+                    "visible_link": "udn.com › 要聞",
+                    "date": "1 天前",
+                    "rank": 15
+                },
+                {
+                    "link": "https://m.medsci.cn/article/show_article.do?id=c31f19590299",
+                    "title": "如何看待北京近期新发新冠肺炎病例？ @MedSci",
+                    "snippet": "33 分钟前 - 6月12日，北京市第113场新型冠状病毒肺炎疫情防控工作新闻发布会召开。北京市丰台区副区长张婕通报了关于丰台区确诊2例新冠肺炎病例的有关 ...",
+                    "visible_link": "m.medsci.cn › article › show_article",
+                    "date": "33 分钟前",
+                    "rank": 16
+                },
+                {
+                    "link": "https://news.cnyes.com/news/id/4492628",
+                    "title": "北京週六大增36例新冠肺炎確診全與新發地市場有關| Anue鉅亨 ...",
+                    "snippet": "11 小时前 - 近日中國爆發新冠病毒(COVID-19) 疫情二次傳播之可能，週六(13 日) 北京單日大增36 例新冠病毒確診病例、無症狀感染者1 例，全部與疫情爆發地 ...",
+                    "visible_link": "news.cnyes.com › A股港股 › 大陸政經",
+                    "date": "11 小时前",
+                    "rank": 17
+                },
+                {
+                    "link": "https://www.orientaldaily.com.my/news/nation/2020/06/14/346213",
+                    "title": "【新冠肺炎】降至个位数！ 今增8确诊| 国内| 東方網馬來西亞東方 ...",
+                    "snippet": "4 小时前 - （布城14日讯）截至今日中午12时，国内新增新冠肺炎确诊病例回到单位数，增加了8宗确诊病例，此外有一宗死亡病例，累计死亡病例为121宗。 此外 ...",
+                    "visible_link": "www.orientaldaily.com.my › News › Nation",
+                    "date": "4 小时前",
+                    "rank": 18
+                },
+                {
+                    "link": "https://www.dw.com/zh/%E8%A1%80%E5%9E%8B%E4%B8%8E%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E6%9C%89%E4%BD%95%E5%85%B3%E8%81%94/a-53745989",
+                    "title": "血型与新冠肺炎有何关联？ | 科技环境| DW | 14.06.2020",
+                    "snippet": "2 小时前 - 研究人员对1610例因感染新冠病毒而出现呼吸衰竭的患者进行了研究。这些患者分别来自疫情异常严重的意大利米兰、蒙扎和西班牙马德里、圣塞瓦斯 ...",
+                    "visible_link": "www.dw.com › 血型与新冠肺炎有何关联",
+                    "date": "2 小时前",
+                    "rank": 19
+                }
+            ],
+            "top_products": [],
+            "right_products": [],
+            "top_ads": [],
+            "bottom_ads": [],
+            "places": [],
+            "right_side_info_text": "补充搜索结果\n新冠病毒肺炎 (COVID-19) 地图\n查看完整地图\n来源：Wikipedia·关于这些数据\n病例数据概览\n香港\n确诊病例\n1,110\n+1\n\t\n治愈\n1,061\n\t\n死亡\n4\n+0\nWorldwide\n确诊病例\n755万\n+14.3万\n\t\n治愈\n-\n\t\n死亡\n42.3万\n+5,055\n更多地点和统计信息\n“+”显示的是前一天报告的新病例 · 更新时间：不到 2 小时前·来源：Wikipedia·关于这些数据\n说明\n冠状病毒病（COVID-19）是一种由新发现‎的冠状病毒引起的传染病。‎\n大多数COVID-19患者会出现轻度至中度症状，无需特殊治疗即可康复。‎\nCOVID-19是如何传播的\n导致COVID-19的病毒主要通过感染者咳嗽、打喷嚏或呼气时产生的飞沫传播。这些飞沫太重，无法悬浮在空气中，很快便会落在地板或表面上。‎\n如果你离一名COVID-19患者很近，你可能‎会因为吸入病毒而被感染，或者因为在触摸被污染的表面后触摸自己的眼睛、鼻子或嘴巴而被感染。‎\n前往 who.int 了解详情\n仅供参考。如需相关建议，请咨询当地医疗机构。",
+            "time": "Sun, 14 Jun 2020 15:23:32 GMT"
+        }
+    },
+    "丁香园": {
+        "1": {
+            "num_results": "",
+            "no_results": false,
+            "effective_query": "",
+            "right_info": {},
+            "results": [
+                {
+                    "link": "http://www.dxy.cn/",
+                    "title": "丁香园- 中国医疗领域的连接者",
+                    "snippet": "丁香园是面向医生、医疗机构、医药从业者以及生命科学领域人士的专业性社会化网络，提供医学、医疗、药学、生命科学等相关领域的交流平台、专业知识、最新科研 ...",
+                    "visible_link": "www.dxy.cn",
+                    "date": "",
+                    "rank": 1
+                },
+                {
+                    "link": "https://www.jobmd.cn/company/94125.htm",
+                    "title": "丁香园招聘信息_丁香人才网",
+                    "snippet": "丁香园. 杭州市滨江区. 其他单位 1000~9999人. 单位介绍. 招聘职位(70) ...",
+                    "visible_link": "www.jobmd.cn › company",
+                    "date": "",
+                    "rank": 2
+                },
+                {
+                    "link": "https://www.jobmd.cn/",
+                    "title": "丁香人才网_丁香园旗下专业的医疗行业招聘平台",
+                    "snippet": "丁香人才网是丁香园旗下专业的医疗行业招聘平台，提供全国真实的公立医院、优质民营医院、药企、科研单位、生物公司的招聘信息，医学药学生物行业找工作首选 ...",
+                    "visible_link": "www.jobmd.cn",
+                    "date": "",
+                    "rank": 3
+                },
+                {
+                    "link": "https://cn.linkedin.com/company/%E4%B8%81%E9%A6%99%E5%9B%AD",
+                    "title": "丁香园| 领英",
+                    "snippet": "丁香园成立于2000年7月23日，一直致力于医药及生命科学领域的互联网实践，是目前行业规模最大，并极具影响力的社会化媒体平台。丁香园用户超过400万，我们为 ...",
+                    "visible_link": "cn.linkedin.com › company › 丁香园",
+                    "date": "",
+                    "rank": 4
+                },
+                {
+                    "link": "http://app.xiaomi.com/detail/23798",
+                    "title": "丁香园 - 小米应用商店",
+                    "snippet": "2020年6月1日 - 丁香园，最大的专业医学讨论社区。 临床经验、病例讨论、考试晋升、科研投稿医疗领域最全面最精华最权威的内容，都在这里。 大众用户请移步「 ...",
+                    "visible_link": "app.xiaomi.com › detail",
+                    "date": "2020年6月1日",
+                    "rank": 5
+                },
+                {
+                    "link": "https://baike.baidu.com/item/%E4%B8%81%E9%A6%99%E5%9B%AD",
+                    "title": "丁香园_百度百科",
+                    "snippet": "丁香园（DXY）原名《丁香园医学文献检索网》、《丁香园医学主页》，始建于2000年7月23日，创办者李天天，是一个医学知识分享网站。网站创始人李天天在读研究生 ...",
+                    "visible_link": "baike.baidu.com › item › 丁香园",
+                    "date": "",
+                    "rank": 6
+                },
+                {
+                    "link": "https://apps.apple.com/hk/app/%E4%B8%81%E9%A6%99%E5%9B%AD-%E5%8C%BB%E7%94%9F%E4%B8%B4%E5%BA%8A%E7%BB%8F%E9%AA%8C%E4%BA%A4%E6%B5%81%E5%92%8C%E7%97%85%E4%BE%8B%E5%88%86%E4%BA%AB%E7%A4%BE%E5%8C%BA/id493466318",
+                    "title": "‎在App Store 上的「丁香园- 医生临床经验交流和病例分享社区」",
+                    "snippet": "2020年6月4日 - 丁香园，拥有百万专业用户的医药讨论社区。 这里有覆盖临床经验、病例讨论、考试晋升、求职招聘、科研投稿、在线教育等权威、精华的内容大众用户 ...",
+                    "visible_link": "apps.apple.com › app › 丁香园-医生临床经验交流和病例分享社区",
+                    "date": "2020年6月4日",
+                    "rank": 7
+                },
+                {
+                    "link": "https://finance.sina.cn/fund/jjyc/2020-03-03/detail-iimxxstf5903215.d.html?vt=4",
+                    "title": "丁香园：在线医疗可解决医疗资源与实际需求错配问题_手机新浪网",
+                    "snippet": "2020年3月3日 - 以丁香园对互联网医疗的理解来看，这是一个可以提供综合、整体、连续的服务，包括在线的医疗科普、咨询问诊、在线课程，以及通过智能可穿戴设备 ...",
+                    "visible_link": "finance.sina.cn › fund › jjyc › detail-iimxxstf5903215.d.html",
+                    "date": "2020年3月3日",
+                    "rank": 8
+                },
+                {
+                    "link": "https://www.weibo.com/dxycn",
+                    "title": "丁香园的微博_微博 - weibo",
+                    "snippet": "丁香园，丁香园官方微博。。丁香园的微博主页、个人资料、相册，丁香园。新浪微博，随时随地分享身边的新鲜事儿。",
+                    "visible_link": "www.weibo.com › dxycn",
+                    "date": "",
+                    "rank": 9
+                },
+                {
+                    "link": "http://www.xinhuanet.com/comments/2019-01/14/c_1123984685.htm",
+                    "title": "丁香园“鞋垫”比权健的还贵，关键看有无虚假宣传-新华网",
+                    "snippet": "2019年1月14日 - 评判丁香园和权健卖的“鞋垫”，不是光比价格就将其等同，关键看产品是否合规、是否货真价实。 2018年年底，自媒体公号“丁香医生”发文质疑权健， ...",
+                    "visible_link": "www.xinhuanet.com › comments",
+                    "date": "2019年1月14日",
+                    "rank": 10
+                },
+                {
+                    "link": "http://med.sina.com/article_detail_103_2_78682.html",
+                    "title": "浏览量超28亿丁香园疫情地图背后是怎样的C端战略逻辑？_ ...",
+                    "snippet": "2020年3月6日 - 文| 张晓旭28亿+。这是丁香园疫情地图1月21日上线至今的总浏览量。疫情地图上线之初的主要功能是信息传递，在经过多次更新迭代后，已综合了 ...",
+                    "visible_link": "med.sina.com › article_detail_103_2_78682",
+                    "date": "2020年3月6日",
+                    "rank": 11
+                },
+                {
+                    "link": "https://dxy.com/",
+                    "title": "丁香医生|可信赖的医疗健康信息和服务",
+                    "snippet": "丁香园 · 论坛 · 丁香通 · 丁香客 · 医药招聘 · 文献求助; 更多. 会议 · 用药助手 · 丁当铺 · 丁香搜索. 搜索. 快速找医生. 科室. 内科; 心血管内科; 神经内科. 外科; 骨科; 心胸 ...",
+                    "visible_link": "dxy.com",
+                    "date": "",
+                    "rank": 12
+                },
+                {
+                    "link": "https://zh.wikipedia.org/zh-hans/%E4%B8%81%E9%A6%99%E5%9B%AD",
+                    "title": "丁香园- 维基百科，自由的百科全书",
+                    "snippet": "丁香园（DXY），始建于2000年7月23日，创办者李天天，是一个医学知识分享网站。該網站曾於2014年9月2日获得腾讯公司7000万美元投资。 2019年1月，丁香园指权 ...",
+                    "visible_link": "zh.wikipedia.org › zh-hans › 丁香园",
+                    "date": "",
+                    "rank": 13
+                },
+                {
+                    "link": "http://www.thecapital.com.cn/News/show/id/26726.html",
+                    "title": "丁香园，22亿流量背后的步步为营_融中财经 - 融资中国",
+                    "snippet": "2020年3月5日 - 丁香园的“全国新冠肺炎疫情实时动态”链接在众圈相传，已经获得22.39亿人次的浏览量（截至2月18日），靠的究竟是什么？ 以专业学术论坛起步的丁香 ...",
+                    "visible_link": "www.thecapital.com.cn › News › show",
+                    "date": "2020年3月5日",
+                    "rank": 14
+                },
+                {
+                    "link": "https://36kr.com/p/5251079",
+                    "title": "“健康界网红”丁香园的10亿美元估值之路_详细解读_最新资讯_ ...",
+                    "snippet": "2019年9月27日 - 未来的路，李天天还需要带领丁香园继续前行，找到新的突破口。",
+                    "visible_link": "36kr.com › ...",
+                    "date": "2019年9月27日",
+                    "rank": 15
+                },
+                {
+                    "link": "https://chrome.google.com/webstore/detail/%E4%B8%80%E9%94%AE%E6%B1%82%E5%8A%A9%E6%96%87%E7%8C%AE%EF%BC%88%E4%B8%81%E9%A6%99%E5%9B%AD%EF%BC%89/hohlilbdlmelnifpcnfjfgkpemgeiomh?hl=zh-CN",
+                    "title": "一键求助文献（丁香园） - Google Chrome",
+                    "snippet": "2012年9月28日 - 在PubMed、Nature、Science、维普、万方等数据库浏览网页时，点击本插件即可在丁香园发起求助。",
+                    "visible_link": "chrome.google.com › detail › hohlilbdlmelnifpcnfjfgkpemgeiomh",
+                    "date": "2012年9月28日",
+                    "rank": 16
+                },
+                {
+                    "link": "https://www.coolapk.com/apk/cn.dxy.idxyer",
+                    "title": "丁香园(cn.dxy.idxyer) - 8.21.0 - 应用- 酷安网",
+                    "snippet": "丁香园是个主要面对医生这门专业行业的社区，上面有不少关于医术或者用药还有其他的相关内容的的探讨和研究。如果有酷友也是医生的话应该会知道这家网站， ...",
+                    "visible_link": "www.coolapk.com › apk › cn.dxy.idxyer",
+                    "date": "",
+                    "rank": 17
+                }
+            ],
+            "top_products": [],
+            "right_products": [],
+            "top_ads": [],
+            "bottom_ads": [],
+            "places": [],
+            "right_side_info_text": "补充搜索结果\n丁香园\n网站\n简介\n说明\n丁香园，始建于2000年7月23日，创办者李天天，是一个医学知识分享网站。该网站曾于2014年9月2日获得腾讯公司7000万美元投资。 2019年1月，丁香园指权健产品骨正基鞋垫价格是天价。 维基百科\n上线日期： 2000 年 7 月 23 日\n语言版本： 汉语\n网站类型： 医学， 社交网络服务， 健康\n用户还搜索了\n还有15+项\n百度\n新浪微博\nDeviantArt\nFacebook\nQQ空间\n反馈\n知识搜索结果\n地图位置为大致的位置。您能帮我们提升精确度吗？\n丁香园\n网站\n保存\n地址： 中国广东省深圳市福田区\n问题与回答\n提问\n还没有人针对此地点提问，抢个第一？\n评价\n写评价\n添加照片\n快来抢先评价吧！\n用户还搜索了\n还有4+项\n深圳北京大学香港科技大学医学...\n公司\n北京大学香港科技大学医学中心...\n科研集团\n公司\n香港大学深圳医院停车场\n停车场\n深圳市贸信旧机动车交易中心\n二手车经销商\n关于这些数据\n反馈",
+            "time": "Sun, 14 Jun 2020 15:23:33 GMT"
+        }
+    }
+}
