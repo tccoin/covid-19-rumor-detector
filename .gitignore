@@ -1,5 +1,6 @@
 # user
 .vscode/
+.idea/
 chinese_sentiment/
 node_modules/
 package-lock.json
