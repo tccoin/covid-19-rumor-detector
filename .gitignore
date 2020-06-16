@@ -3,6 +3,8 @@
 chinese_sentiment/
 node_modules/
 package-lock.json
+model/
+embeddings/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
